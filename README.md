@@ -1,5 +1,4 @@
-# 
-Childcare App
+#  Childcare App
 
 A new Flutter project.
 
